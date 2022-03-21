@@ -1,0 +1,4 @@
+Edit qb-smallresources\client\hudcomponents.lua:
+
+Remove commenting for:
+HideHudComponentThisFrame(14) -- 14 : RETICLE
